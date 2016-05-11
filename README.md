@@ -1,10 +1,11 @@
-Bluesy colorscheme for Vim
+Blues colorscheme for Vim
 --------------------------
 
 Cool text with VFD constants, sunny searches and
-incandescent errors. Sample:
+incandescent errors.
 
+Sample:  
 ![](sample.gif)
 
-Maintainer: Daniel Lima <danielm@tinyhub.tk>
+Maintainer: Daniel Lima <danielm@tinyhub.tk>  
 License: MIT
