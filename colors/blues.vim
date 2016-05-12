@@ -40,6 +40,7 @@ hi VertSplit     ctermfg=247    ctermbg=None  cterm=None  guifg=#9e9e9e  guibg=#
 hi LineNr        ctermfg=247    ctermbg=233   cterm=None  guifg=#9e9e9e  guibg=#121212
 hi CursorLineNr  ctermfg=White  ctermbg=25    cterm=None  guifg=White    guibg=#005faf
 hi CursorLine                   ctermbg=234   cterm=None                 guibg=#262626
+hi Visual                       ctermbg=235                              guibg=#404040
 
 hi Pmenu         ctermfg=Gray   ctermbg=233   cterm=None  guifg=Gray     guibg=#121212
 hi PmenuSel      ctermfg=White  ctermbg=25    cterm=None  guifg=White    guibg=#005faf
