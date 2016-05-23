@@ -4,7 +4,7 @@
 " Maintainer: Daniel Lima <danielm@tinyhub.tk>
 " License: MIT
 
-if $TERM != 'linux'
+if $TERM != 'linux' || has('gui')
 
 set bg=dark
 set t_Co=256
