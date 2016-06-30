@@ -33,11 +33,11 @@ hi MatchParen    ctermfg=203    ctermbg=None  cterm=None  guifg=#ff5f5f  guibg=#
 
 hi Folded        ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
 hi FoldColumn    ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
-hi StatusLineNC  ctermfg=238    ctermbg=234   cterm=None  guifg=#303030  guibg=#444444
-hi StatusLine    ctermfg=247    ctermbg=234   cterm=None  guifg=#303030  guibg=#9e9e9e
+hi StatusLineNC  ctermfg=238    ctermbg=234   cterm=None  guifg=#1c1c1c  guibg=#444444
+hi StatusLine    ctermfg=247    ctermbg=234   cterm=None  guifg=#1c1c1c  guibg=#9e9e9e
 hi VertSplit     ctermfg=247    ctermbg=None  cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
 
-hi LineNr        ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#303030
+hi LineNr        ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
 hi CursorLineNr  ctermfg=White  ctermbg=25    cterm=None  guifg=White    guibg=#005faf
 hi CursorLine                   ctermbg=236   cterm=None                 guibg=#303030
 hi Visual                       ctermbg=238                              guibg=#444444
