@@ -31,20 +31,20 @@ hi Underline     ctermfg=244    ctermbg=None  cterm=None  guifg=#808080  guibg=#
 hi NonText       ctermfg=87     ctermbg=None  cterm=None  guifg=#5fffff  guibg=#1c1c1c
 hi MatchParen    ctermfg=203    ctermbg=None  cterm=None  guifg=#ff5f5f  guibg=#1c1c1c
 
-hi Folded        ctermfg=247    ctermbg=233   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
-hi FoldColumn    ctermfg=247    ctermbg=233   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
-hi StatusLineNC  ctermfg=238    ctermbg=233   cterm=None  guifg=#262626  guibg=#444444
-hi StatusLine    ctermfg=247    ctermbg=233   cterm=None  guifg=#262626  guibg=#9e9e9e
+hi Folded        ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
+hi FoldColumn    ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
+hi StatusLineNC  ctermfg=238    ctermbg=234   cterm=None  guifg=#303030  guibg=#444444
+hi StatusLine    ctermfg=247    ctermbg=234   cterm=None  guifg=#303030  guibg=#9e9e9e
 hi VertSplit     ctermfg=247    ctermbg=None  cterm=None  guifg=#9e9e9e  guibg=#1c1c1c
 
-hi LineNr        ctermfg=247    ctermbg=233   cterm=None  guifg=#9e9e9e  guibg=#262626
+hi LineNr        ctermfg=247    ctermbg=234   cterm=None  guifg=#9e9e9e  guibg=#303030
 hi CursorLineNr  ctermfg=White  ctermbg=25    cterm=None  guifg=White    guibg=#005faf
-hi CursorLine                   ctermbg=234   cterm=None                 guibg=#262626
-hi Visual                       ctermbg=235                              guibg=#303030
+hi CursorLine                   ctermbg=236   cterm=None                 guibg=#303030
+hi Visual                       ctermbg=238                              guibg=#444444
 
-hi Pmenu         ctermfg=Gray   ctermbg=235   cterm=None  guifg=Gray     guibg=#303030
+hi Pmenu         ctermfg=Gray   ctermbg=238   cterm=None  guifg=Gray     guibg=#444444
 hi PmenuSel      ctermfg=White  ctermbg=25    cterm=None  guifg=White    guibg=#005faf
-hi PmenuSbar     ctermfg=235    ctermbg=234   cterm=None  guifg=#303030  guibg=#262626
+hi PmenuSbar     ctermfg=238    ctermbg=236   cterm=None  guifg=#444444  guibg=#303030
 hi PmenuThumb    ctermfg=Gray   ctermbg=Gray  cterm=None  guifg=Gray     guibg=Gray
 
 hi DiffAdd       ctermfg=10     ctermbg=None  cterm=None  guifg=#00ff00  guibg=#1c1c1c
