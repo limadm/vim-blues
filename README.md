@@ -7,5 +7,5 @@ incandescent errors.
 Sample:  
 ![](sample.gif)
 
-Maintainer: Daniel Lima <danielm@tinyhub.tk>  
+Maintainer: Daniel Lima <danielm@nanohub.tk>  
 License: MIT
