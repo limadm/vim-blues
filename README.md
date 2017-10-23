@@ -2,7 +2,8 @@ Blues colorscheme for Vim
 --------------------------
 
 Cool colors with VFD constants, sunny searches and
-incandescent errors.
+incandescent errors. Light bg support was added,
+please set your preference.
 
 Samples:  
 ![](sample.gif)

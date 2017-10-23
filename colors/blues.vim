@@ -9,7 +9,7 @@ if $TERM != 'linux' || has('gui')
 set t_Co=256
 let g:colors_name="blues"
 
-if $bg == 'dark'
+if &bg == 'dark'
 hi Normal        ctermfg=251    ctermbg=None  cterm=None  guifg=#c6c6c6  guibg=#1c1c1c
 hi Cursor        ctermfg=Black  ctermbg=White cterm=None  guifg=Black    guibg=White
 hi SpecialKey    ctermfg=30     ctermbg=None  cterm=None  guifg=#008787  guibg=#1c1c1c
@@ -59,7 +59,7 @@ hi SpecialKey    ctermfg=56     ctermbg=None  cterm=None  guifg=#008787  guibg=W
 hi Directory     ctermfg=26     ctermbg=None  cterm=None  guifg=#0087d7  guibg=White
 hi ErrorMsg      ctermfg=202    ctermbg=None  cterm=None  guifg=#ff5f5f  guibg=White
 hi PreProc       ctermfg=24     ctermbg=None  cterm=None  guifg=#a8a8a8  guibg=White
-hi Search        ctermfg=None   ctermbg=230   cterm=None  guifg=None     guibg=Yellow
+hi Search        ctermfg=None   ctermbg=229   cterm=None  guifg=None     guibg=Yellow
 hi Type          ctermfg=26     ctermbg=None  cterm=None  guifg=#5fafff  guibg=White
 hi Statement     ctermfg=18     ctermbg=None  cterm=None  guifg=#5fafff  guibg=White
 hi Comment       ctermfg=248    ctermbg=None  cterm=None  guifg=#6c6c6c  guibg=White
