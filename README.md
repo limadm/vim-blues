@@ -1,11 +1,12 @@
 Blues colorscheme for Vim
 --------------------------
 
-Cool text with VFD constants, sunny searches and
+Cool colors with VFD constants, sunny searches and
 incandescent errors.
 
-Sample:  
+Samples:  
 ![](sample.gif)
+![](sample-light.gif)
 
-Maintainer: Daniel Lima <danielm@tinyhub.tk>  
+Maintainer: Daniel Lima <danielm@nanohub.tk>  
 License: MIT
