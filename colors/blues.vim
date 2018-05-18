@@ -1,7 +1,7 @@
 " Blues colorscheme for Vim
 " Cool text with VFD constants, sunny searches and
 " incandescent errors.
-" Maintainer: Daniel Lima <danielm@nanohub.tk>
+" Maintainer: Daniel Lima <danielmariodelima@gmail.com>
 " License: MIT
 
 if $TERM != 'linux' || has('gui')

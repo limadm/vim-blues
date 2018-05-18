@@ -9,5 +9,5 @@ Samples:
 ![](sample.gif)
 ![](sample-light.gif)
 
-Maintainer: Daniel Lima <danielm@nanohub.tk>  
+Maintainer: Daniel Lima <danielmariodelima@gmail.com>  
 License: MIT
