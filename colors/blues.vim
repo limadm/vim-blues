@@ -81,8 +81,8 @@ hi StatusLine    ctermfg=231    ctermbg=53    cterm=NONE  guifg=#262626  guibg=#
 hi VertSplit     ctermfg=53     ctermbg=NONE  cterm=NONE  guifg=#9e9e9e  guibg=#1c1c1c
 
 hi LineNr        ctermfg=253    ctermbg=NONE  cterm=NONE  guifg=#9e9e9e  guibg=#262626
-hi CursorLineNr  ctermfg=33     ctermbg=NONE  cterm=NONE  guifg=White    guibg=#005faf
-hi CursorLine                   ctermbg=231   cterm=NONE                 guibg=#303030
+hi CursorLineNr  ctermfg=33     ctermbg=195   cterm=NONE  guifg=White    guibg=#005faf
+hi CursorLine                   ctermbg=255   cterm=NONE                 guibg=#303030
 hi Visual                       ctermbg=254                              guibg=#444444
 
 hi Pmenu         ctermfg=242    ctermbg=254   cterm=NONE  guifg=Gray     guibg=#444444
